@@ -1,0 +1,30 @@
+PLAY STORE LISTING (kopyahin sa Play Console > Main store listing)
+
+App name (max 30):
+Fruit Matching Puzzle
+
+Short description (max 80):
+Match cute fruits, beat the clock and collect stars! A fun memory game for kids.
+
+Full description (max 4000):
+Fruit Matching Puzzle is a colorful memory game for kids and the whole family!
+
+HOW TO PLAY
+- Cards are hidden and shuffled for 3 seconds, then the game begins.
+- Flip two cards. Find the matching fruits before time runs out.
+- Chain matches for COMBO bonus points.
+- Finish a level to earn up to 3 stars.
+
+FEATURES
+- 20 levels from easy to expert
+- Endless Rush: start with 2 minutes, get +50 seconds for every round you finish
+- Earn coins and buy power-ups (Peek, Extra Time, Hint)
+- Unlock card colors and themes in the Shop
+- Collect stars to unlock fruit profile pictures
+- Daily rewards
+- Cute cartoon fruits, fun sounds and music
+- Works offline
+
+Send your suggestions through the Feedback button inside the game. Have fun!
+
+Category: Games > Puzzle (or Educational)
