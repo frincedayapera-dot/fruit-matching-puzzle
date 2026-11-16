@@ -4,7 +4,6 @@
     cd C:\Users\User\OneDrive\Desktop\fruit_matching_puzzle
     powershell -ExecutionPolicy Bypass -File .\web_setup.ps1
     flutter run -d chrome
-
 ## B. Git (kung wala pa)
     winget install --id Git.Git -e
 (isara at buksan ulit ang terminal)
